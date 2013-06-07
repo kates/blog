@@ -1,2 +1,5 @@
 *.pyc
 *.pid
+.DS_Store
+.*~
+*~
